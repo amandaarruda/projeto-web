@@ -2,8 +2,8 @@
 
 **Página principal:**
 ---
-![site](https://user-images.githubusercontent.com/66084295/188270160-8d822bbb-6b68-4227-9460-101e250ea78c.png)
+![site](https://user-images.githubusercontent.com/66084295/189551234-520a7154-1e63-443a-bba7-c9d6e6bd1776.png)
 
 **Barra lateral:**
 ---
-![barra lateral](https://user-images.githubusercontent.com/66084295/188270161-0ad19bbb-b3c7-4e26-8b1f-41dd7ae013a3.png)
+![barra lateral](https://user-images.githubusercontent.com/66084295/189551378-b89cc5d0-ed90-48ba-b0b8-23861e518e80.PNG)
